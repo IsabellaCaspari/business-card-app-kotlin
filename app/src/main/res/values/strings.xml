@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Visitenkarte</string>
+    <string name="edit_activity_title">Person editieren</string>
+    <string name="new_person_activity_title">Neu anlegen</string>
+
+    <string name="alert_dialog_bar_code_title">Teile deine Vistenkarte</string>
+    <string name="alert_dialog_bar_code_message">Um diesen Kontakt zu teilen - teile diesen Barcode</string>
+    <string name="alert_dialog_bar_code_button_text">share Qrcode</string>
+</resources>
